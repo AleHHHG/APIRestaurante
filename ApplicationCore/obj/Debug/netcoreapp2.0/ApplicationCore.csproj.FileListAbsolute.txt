@@ -1,0 +1,9 @@
+C:\projetos\teste\Teste\ApplicationCore\bin\Debug\netcoreapp2.0\ApplicationCore.deps.json
+C:\projetos\teste\Teste\ApplicationCore\bin\Debug\netcoreapp2.0\ApplicationCore.dll
+C:\projetos\teste\Teste\ApplicationCore\bin\Debug\netcoreapp2.0\ApplicationCore.pdb
+C:\projetos\teste\Teste\ApplicationCore\obj\Debug\netcoreapp2.0\ApplicationCore.csprojAssemblyReference.cache
+C:\projetos\teste\Teste\ApplicationCore\obj\Debug\netcoreapp2.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\projetos\teste\Teste\ApplicationCore\obj\Debug\netcoreapp2.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\projetos\teste\Teste\ApplicationCore\obj\Debug\netcoreapp2.0\ApplicationCore.AssemblyInfo.cs
+C:\projetos\teste\Teste\ApplicationCore\obj\Debug\netcoreapp2.0\ApplicationCore.dll
+C:\projetos\teste\Teste\ApplicationCore\obj\Debug\netcoreapp2.0\ApplicationCore.pdb

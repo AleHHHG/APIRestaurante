@@ -1,0 +1,16 @@
+C:\projetos\teste\Teste\API\bin\Debug\netcoreapp2.0\API.deps.json
+C:\projetos\teste\Teste\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.json
+C:\projetos\teste\Teste\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.dev.json
+C:\projetos\teste\Teste\API\bin\Debug\netcoreapp2.0\API.dll
+C:\projetos\teste\Teste\API\obj\Debug\netcoreapp2.0\API.csprojAssemblyReference.cache
+C:\projetos\teste\Teste\API\obj\Debug\netcoreapp2.0\API.csproj.CoreCompileInputs.cache
+C:\projetos\teste\Teste\API\obj\Debug\netcoreapp2.0\API.AssemblyInfoInputs.cache
+C:\projetos\teste\Teste\API\obj\Debug\netcoreapp2.0\API.AssemblyInfo.cs
+C:\projetos\teste\Teste\API\bin\Debug\netcoreapp2.0\API.pdb
+C:\projetos\teste\Teste\API\obj\Debug\netcoreapp2.0\API.dll
+C:\projetos\teste\Teste\API\obj\Debug\netcoreapp2.0\API.pdb
+C:\projetos\teste\Teste\API\bin\Debug\netcoreapp2.0\ApplicationCore.dll
+C:\projetos\teste\Teste\API\bin\Debug\netcoreapp2.0\Infrastructure.dll
+C:\projetos\teste\Teste\API\bin\Debug\netcoreapp2.0\Infrastructure.pdb
+C:\projetos\teste\Teste\API\bin\Debug\netcoreapp2.0\ApplicationCore.pdb
+C:\projetos\teste\Teste\API\obj\Debug\netcoreapp2.0\API.csproj.CopyComplete
